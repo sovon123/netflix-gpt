@@ -1,6 +1,8 @@
 # Netflix GPT
 - create react app
 - tailwindcss intall
+- Headr Implement Done
+- Login form.
 
 # Features
 - Login/Sin Up page
