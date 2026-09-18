@@ -2,7 +2,14 @@
 - create react app
 - tailwindcss intall
 - Headr Implement Done
-- Login form.
+- Routing of App
+- Login form
+- SignUp form
+- Form Validation + useRef Hook
+- firebase setup and deploy app to live
+- create Sign-Up user account
+- implement SignIn and SignUp user Api
+- created redux store with UserSlice
 
 # Features
 - Login/Sin Up page
